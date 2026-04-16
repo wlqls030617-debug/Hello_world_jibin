@@ -1,0 +1,5 @@
+# Ignore sensitive server credentials and IP information
+AWS.rtf
+*.rtf
+*.pem
+*.key
